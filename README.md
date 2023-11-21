@@ -1,4 +1,5 @@
 # Example of README.md
+## kmeans στην R  για 
 ?mtcars
 dat=mtcars
 pmatrix=scale(dat)
